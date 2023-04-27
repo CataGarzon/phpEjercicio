@@ -1,0 +1,52 @@
+.usuario
+{   
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+    width: 330px;
+    background:#090909;
+    color:ffffff;
+    margin: auto;
+    margin-top: 50px;
+    border-top:70px solid #141414;
+    border-right:40px solid #141414;
+    border-left:30px solid #141414;
+    border-radius: 6px;
+    opacity: 0.9;
+}
+#botonSesion
+{
+    color:  #004466;
+   font-size: 18px;
+    height: 35px;
+    border-radius: 6px;
+    background: #99ddff; 
+    font-family:Arial;
+    font-weight: 700px;
+}
+#login
+{
+    background-repeat: no-repeat;
+    background: url(../IMG/fondo.jpg);
+}
+#entrada
+{
+    width:300px;
+   height:25px;
+   border-radius: 8px;
+   font-family:Arial;
+   font-weight: 700;
+   font-size: 14px;
+}
+.menu
+{
+    font-size: 20px;
+    margin-top:15%;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#menubody
+{
+    background: url(../IMG/menu.png);
+    background-repeat: no-repeat;
+}
